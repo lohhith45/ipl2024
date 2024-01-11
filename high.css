@@ -1,0 +1,27 @@
+.high
+{
+    border:  1px solid;
+    background-color: blueviolet;
+    position: sticky;
+    top: 1px;
+}
+.pad
+{
+    padding: 40px 40px 40px 40px;
+}
+.box
+{
+    width: 400px;
+    border-radius: 10px;
+}
+.img1
+{
+    width: 100%;
+    border-radius: 10px;
+}
+.flex
+{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
